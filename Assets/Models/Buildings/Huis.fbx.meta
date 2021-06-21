@@ -8,57 +8,57 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: beton
-    second: {fileID: 2100000, guid: ff6f3181d94f5d846ad87d98f4483888, type: 2}
+    second: {fileID: 2100000, guid: 41c592fa982d77b4cbdbc779b446faa3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: blue led
-    second: {fileID: 2100000, guid: ec5138c0a14a74549a126109d4fd607b, type: 2}
+    second: {fileID: 2100000, guid: 675dd9a85110be4449726c4c0429c718, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: dark roof
-    second: {fileID: 2100000, guid: 65f97fa55c464a74c8d33862f0c413b8, type: 2}
+    second: {fileID: 2100000, guid: 71b058ab6abd26b4f8e543ef509cf91f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: door
-    second: {fileID: 2100000, guid: c09cc4f989da0d740a762c6bf0982ef2, type: 2}
+    second: {fileID: 2100000, guid: 81233aafe052e9b42859c2ada0210c86, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: glass
-    second: {fileID: 2100000, guid: 213c51e1b9907494ebedc7d8a18390dd, type: 2}
+    second: {fileID: 2100000, guid: a3c6fa557ba58b14183b6ac0a9bba748, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal
-    second: {fileID: 2100000, guid: abad3aa682175ec47a984d9fc10cab42, type: 2}
+    second: {fileID: 2100000, guid: 0550ac5664e49d3428edde5713d49495, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pink led
-    second: {fileID: 2100000, guid: e86875080d8a8b741a5baf7c518ac809, type: 2}
+    second: {fileID: 2100000, guid: 95de147d8f1bae2459d0a20522f60d04, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: planks
-    second: {fileID: 2100000, guid: 488fbecce972f564a82f8c4705fb6ed5, type: 2}
+    second: {fileID: 2100000, guid: c7ec6f023eb789c40b35ccdf24adf4ce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: roof
-    second: {fileID: 2100000, guid: 1fbd21fe7258c8d428e6e95a3d90087d, type: 2}
+    second: {fileID: 2100000, guid: 13ad32bb9baccd242a505471687d837e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wall
-    second: {fileID: 2100000, guid: de1e81a7fc57afc42bc874e8a34fc02e, type: 2}
+    second: {fileID: 2100000, guid: 450913b9471e47a44b54663cbf390a25, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: yellow led
-    second: {fileID: 2100000, guid: c95aa4c776008cf4685e092c51ef307c, type: 2}
+    second: {fileID: 2100000, guid: 59365cfa59875f3468ee6f669b5d2eb3, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -88,7 +88,11 @@ ModelImporter:
     clipAnimations: []
     isReadable: 0
   meshes:
-    lODScreenPercentages: []
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
     globalScale: 1
     meshCompression: 0
     addColliders: 0
